@@ -1,3 +1,3 @@
 # MyfirstProject
-my first repo i dont know anything 
-still cluelesss
+a simple implementation of hyper text markup language for creating a movie recommendation
+
